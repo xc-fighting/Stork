@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 58f52606ecd457243929f2523d72e676
+timeCreated: 1488955246
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A014_body
+    100002: BoneBody01
+    100004: BoneBody02
+    100006: BoneBodynub
+    100008: BoneLegL01
+    100010: BoneLegL02
+    100012: BoneLegL03
+    100014: BoneLegL04
+    100016: BoneLegL05
+    100018: BoneLegLnub
+    100020: BoneLegR01
+    100022: BoneLegR02
+    100024: BoneLegR03
+    100026: BoneLegR04
+    100028: BoneLegR05
+    100030: BoneLegRnub
+    100032: BoneTail01
+    100034: BoneTail02
+    100036: BoneTailnub
+    100038: BoneToeL01
+    100040: BoneToeLnub
+    100042: BoneToeR07
+    100044: BoneToeRnub
+    100046: BoneWingL01
+    100048: BoneWingL02
+    100050: BoneWingL03
+    100052: BoneWingL04
+    100054: BoneWingLnub
+    100056: BoneWingR01
+    100058: BoneWingR02
+    100060: BoneWingR03
+    100062: BoneWingR04
+    100064: BoneWingRnub
+    100066: //RootNode
+    100068: Point01
+    100070: Point02
+    100072: Point03
+    400000: A014_body
+    400002: BoneBody01
+    400004: BoneBody02
+    400006: BoneBodynub
+    400008: BoneLegL01
+    400010: BoneLegL02
+    400012: BoneLegL03
+    400014: BoneLegL04
+    400016: BoneLegL05
+    400018: BoneLegLnub
+    400020: BoneLegR01
+    400022: BoneLegR02
+    400024: BoneLegR03
+    400026: BoneLegR04
+    400028: BoneLegR05
+    400030: BoneLegRnub
+    400032: BoneTail01
+    400034: BoneTail02
+    400036: BoneTailnub
+    400038: BoneToeL01
+    400040: BoneToeLnub
+    400042: BoneToeR07
+    400044: BoneToeRnub
+    400046: BoneWingL01
+    400048: BoneWingL02
+    400050: BoneWingL03
+    400052: BoneWingL04
+    400054: BoneWingLnub
+    400056: BoneWingR01
+    400058: BoneWingR02
+    400060: BoneWingR03
+    400062: BoneWingR04
+    400064: BoneWingRnub
+    400066: //RootNode
+    400068: Point01
+    400070: Point02
+    400072: Point03
+    4300000: A014_body
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: A014_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: A014_body
+        weight: 1
+      - path: Point01
+        weight: 1
+      - path: Point01/BoneBody01
+        weight: 1
+      - path: Point01/BoneBody01/BoneBody02
+        weight: 1
+      - path: Point01/BoneBody01/BoneBody02/BoneBodynub
+        weight: 1
+      - path: Point01/BoneBody01/Point02
+        weight: 1
+      - path: Point01/BoneBody01/Point02/BoneWingR01
+        weight: 1
+      - path: Point01/BoneBody01/Point02/BoneWingR01/BoneWingR02
+        weight: 1
+      - path: Point01/BoneBody01/Point02/BoneWingR01/BoneWingR02/BoneWingR03
+        weight: 1
+      - path: Point01/BoneBody01/Point02/BoneWingR01/BoneWingR02/BoneWingR03/BoneWingR04
+        weight: 1
+      - path: Point01/BoneBody01/Point02/BoneWingR01/BoneWingR02/BoneWingR03/BoneWingR04/BoneWingRnub
+        weight: 1
+      - path: Point01/BoneBody01/Point03
+        weight: 1
+      - path: Point01/BoneBody01/Point03/BoneWingL01
+        weight: 1
+      - path: Point01/BoneBody01/Point03/BoneWingL01/BoneWingL02
+        weight: 1
+      - path: Point01/BoneBody01/Point03/BoneWingL01/BoneWingL02/BoneWingL03
+        weight: 1
+      - path: Point01/BoneBody01/Point03/BoneWingL01/BoneWingL02/BoneWingL03/BoneWingL04
+        weight: 1
+      - path: Point01/BoneBody01/Point03/BoneWingL01/BoneWingL02/BoneWingL03/BoneWingL04/BoneWingLnub
+        weight: 1
+      - path: Point01/BoneLegL01
+        weight: 1
+      - path: Point01/BoneLegL01/BoneLegL02
+        weight: 1
+      - path: Point01/BoneLegL01/BoneLegL02/BoneLegL03
+        weight: 1
+      - path: Point01/BoneLegL01/BoneLegL02/BoneLegL03/BoneLegL04
+        weight: 1
+      - path: Point01/BoneLegL01/BoneLegL02/BoneLegL03/BoneLegL04/BoneLegL05
+        weight: 1
+      - path: Point01/BoneLegL01/BoneLegL02/BoneLegL03/BoneLegL04/BoneLegL05/BoneLegLnub
+        weight: 1
+      - path: Point01/BoneLegL01/BoneLegL02/BoneLegL03/BoneToeL01
+        weight: 1
+      - path: Point01/BoneLegL01/BoneLegL02/BoneLegL03/BoneToeL01/BoneToeLnub
+        weight: 1
+      - path: Point01/BoneLegR01
+        weight: 1
+      - path: Point01/BoneLegR01/BoneLegR02
+        weight: 1
+      - path: Point01/BoneLegR01/BoneLegR02/BoneLegR03
+        weight: 1
+      - path: Point01/BoneLegR01/BoneLegR02/BoneLegR03/BoneLegR04
+        weight: 1
+      - path: Point01/BoneLegR01/BoneLegR02/BoneLegR03/BoneLegR04/BoneLegR05
+        weight: 1
+      - path: Point01/BoneLegR01/BoneLegR02/BoneLegR03/BoneLegR04/BoneLegR05/BoneLegRnub
+        weight: 1
+      - path: Point01/BoneLegR01/BoneLegR02/BoneLegR03/BoneToeR07
+        weight: 1
+      - path: Point01/BoneLegR01/BoneLegR02/BoneLegR03/BoneToeR07/BoneToeRnub
+        weight: 1
+      - path: Point01/BoneTail01
+        weight: 1
+      - path: Point01/BoneTail01/BoneTail02
+        weight: 1
+      - path: Point01/BoneTail01/BoneTail02/BoneTailnub
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

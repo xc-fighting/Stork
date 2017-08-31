@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stork.Plugins", "Stork.Plugins.csproj", "{45CB71D1-DD4C-E29B-416F-D7BDAC975E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stork", "Stork.csproj", "{2D2D2838-BB9D-4351-060D-FD299FDDAA7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stork.Editor", "Stork.Editor.csproj", "{87A3361B-A85B-C7AA-3996-88DD4C5CA9EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45CB71D1-DD4C-E29B-416F-D7BDAC975E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CB71D1-DD4C-E29B-416F-D7BDAC975E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CB71D1-DD4C-E29B-416F-D7BDAC975E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CB71D1-DD4C-E29B-416F-D7BDAC975E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2D2838-BB9D-4351-060D-FD299FDDAA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2D2838-BB9D-4351-060D-FD299FDDAA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2D2838-BB9D-4351-060D-FD299FDDAA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2D2838-BB9D-4351-060D-FD299FDDAA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A3361B-A85B-C7AA-3996-88DD4C5CA9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A3361B-A85B-C7AA-3996-88DD4C5CA9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A3361B-A85B-C7AA-3996-88DD4C5CA9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A3361B-A85B-C7AA-3996-88DD4C5CA9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
